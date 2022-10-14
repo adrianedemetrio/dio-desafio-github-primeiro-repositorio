@@ -1,0 +1,6 @@
+Comandos básicos de navegação do Git - PARA WINDOWS
+
+cd (navegar num local especifico) - para voltar um nível cd ..
+dir (lista todas as pastas)
+mkdir (criar uma nova pasta)
+ctrl + l (para limpar o terminal)
